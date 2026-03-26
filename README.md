@@ -10,4 +10,6 @@ Details regarding the data, sampling, and annotation can be found in the [Data D
 
 The [codebook for each domain](https://github.com/RenaissancePhilanthropy/careernet-data/tree/main/Codebooks) includes the variables, variable types, variable descriptions, missing quantities, values, and value frequencies for each.
 
+Want to  learn more about CareerNet and be notified about potential information sessions? Please fill out [this form](https://form.fillout.com/t/1P8xyj5S2Dus).
+
 Questions regarding the data can be directed to <ulrich@renphil.org>
