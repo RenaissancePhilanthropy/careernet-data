@@ -12,6 +12,8 @@ The [codebook for each domain](https://github.com/RenaissancePhilanthropy/career
 
 The [Notebooks folder](https://github.com/RenaissancePhilanthropy/careernet-data/tree/main/Notebooks) includes Jupyter notebooks for working with the data: two that add U.S. Bureau of Labor Statistics labor market information (employment and wages) to CareerNet by SOC code, at the national/state level or the metro/non-metro area level, and a Google Colab notebook for searching the questions and answers by meaning and asking a chat model career questions using CareerNet answers.
 
+The [CareerNet app](https://renaissancephilanthropy.github.io/careernet-app/) lets you explore the data in your browser, with no setup: a dashboard linking SOC codes to labor market information and to the other CareerNet annotations (answer quality, scenarios, and goals), and a search of the questions and answers by meaning. Its code is in the [careernet-app repository](https://github.com/RenaissancePhilanthropy/careernet-app).
+
 Version 1.1 adds Standard Occupational Classification (SOC) codes and answer reasoning labels to the datasets, notebooks for integrating U.S. Bureau of Labor Statistics labor market information (LMI), and a retrieval-augmented generation (RAG) notebook for searching and chatting with the data.
 
 The CareerNet data is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://github.com/RenaissancePhilanthropy/careernet-data/blob/main/LICENSE.txt).
