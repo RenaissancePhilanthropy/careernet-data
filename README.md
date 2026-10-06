@@ -16,6 +16,8 @@ The [CareerNet app](https://renaissancephilanthropy.github.io/careernet-app/) le
 
 Version 1.1 adds Standard Occupational Classification (SOC) codes and answer reasoning labels to the datasets, notebooks for integrating U.S. Bureau of Labor Statistics labor market information (LMI), and a retrieval-augmented generation (RAG) notebook for searching and chatting with the data.
 
+The v1.1 datasets, codebooks, Data Details PDF, and RAG notebook data files can be downloaded from the [v1.1 release](https://github.com/RenaissancePhilanthropy/careernet-data/releases/tag/v1.1).
+
 The CareerNet data is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://github.com/RenaissancePhilanthropy/careernet-data/blob/main/LICENSE.txt).
 
 Want to learn more about CareerNet and be notified about potential information sessions? Please fill out [this form](https://form.fillout.com/t/1P8xyj5S2Dus).
